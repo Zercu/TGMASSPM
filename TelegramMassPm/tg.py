@@ -4,8 +4,8 @@ from telethon.errors import FloodWaitError
 from telethon.tl.functions.messages import SendMessageRequest
 
 # Replace with your own API ID and Hash from my.telegram.org
-API_ID = '23089004'
-API_HASH = '09223921634c8517e776eb41ad3f3f31'
+API_ID = ''
+API_HASH = ''
 
 # Function to send messages to users
 async def send_message(client, message, usernames):
