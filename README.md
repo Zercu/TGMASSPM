@@ -110,8 +110,10 @@ Feel free to open issues or submit pull requests if you'd like to improve this s
 
 ## License
 
+## License
+
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
+
 
 ### Explanation of Key Sections:
 - **Features**: A summary of what the script can do.
